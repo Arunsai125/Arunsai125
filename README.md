@@ -14,10 +14,8 @@ I'm a passionate software developer who loves to build innovative solutions. I e
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🌟 Featured Projects
-- [Hospital Management System](https://github.com/Arunsai125/hospital-management-system) - A comprehensive hospital management system built with Spring Boot and React
-- [Project 2] - Brief description
-- [Project 3] - Brief description
+## 🏆 LeetCode Profile
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Arunsai125&theme=dark)](https://leetcode.com/Arunsai125)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunsai125&show_icons=true&theme=radical)
@@ -26,14 +24,13 @@ I'm a passionate software developer who loves to build innovative solutions. I e
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunsai125&layout=compact&theme=radical)
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunsainarla/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arunsaiknr@gmail.com)
 
 ## 📫 How to Reach Me
-- Email: your.email@example.com
-- LinkedIn: [Your Name](https://linkedin.com/in/yourusername)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- Email: arunsaiknr@gmail.com
+- Phone: +1 386-456-8079
+- LinkedIn: [Arun Sainarla](https://www.linkedin.com/in/arunsainarla/)
 
 ---
 ⭐️ From [Arunsai125](https://github.com/Arunsai125)
