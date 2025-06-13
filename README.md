@@ -37,9 +37,10 @@ I'm a curious and driven software developer currently working as an SDE at Temen
 
 ## 🛠️ Featured Projects
 
-- 🔗 [NodeBB-UCF](https://github.com/ArunSaiNarla/NodeBB-UCF): Open-source forum enhancement tailored for the UCF community.
-- 🔬 [Low Resolution Image Enhancement Using ResNet GAN](https://www.publications.scrs.in/chapter/978-81-955020-5-9/108): Research-based project on improving image clarity using GANs.
-- 💓 [Noise Removal in ECG Signals](https://link.springer.com/chapter/10.1007/978-981-19-2126-1_19): Deep learning model to enhance ECG signal quality using convolutional autoencoders.
+- 🔗 <a href="https://github.com/ArunSaiNarla/NodeBB-UCF" target="_blank">NodeBB-UCF</a>: Open-source forum enhancement tailored for the UCF community.
+- 🔬 <a href="https://www.publications.scrs.in/chapter/978-81-955020-5-9/108" target="_blank">Low Resolution Image Enhancement Using ResNet GAN</a>: Research project on improving image clarity using deep learning.
+- 💓 <a href="https://link.springer.com/chapter/10.1007/978-981-19-2126-1_19" target="_blank">Noise Removal in ECG Signals</a>: Deep learning model for denoising ECG signals using convolutional autoencoders.
+
 
 
 ## 📊 Profile Stats
