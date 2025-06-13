@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Arun Sainarla 
+# 👋 Hi there, I'm Arun Sainarla (he/him)
 
 ## 🚀 About Me
 I'm a passionate software developer who loves to build innovative solutions. I enjoy working on challenging projects and learning new technologies.
@@ -14,18 +14,17 @@ I'm a passionate software developer who loves to build innovative solutions. I e
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🏆 LeetCode Profile
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=ArunSaiNarla&theme=dark)](https://leetcode.com/u/ArunSaiNarla/)
+## 📊 Profile Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arunsai125&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunsai125&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunsai125&show_icons=true&theme=radical)
-
-## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunsai125&layout=compact&theme=radical)
-
-## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunsainarla/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arunsaiknr@gmail.com)
+## 🏆 Coding Profiles
+<div align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=ArunSaiNarla&theme=dark" alt="LeetCode Stats" />
+  <img src="https://linkedin-profile-views-counter.vercel.app/api?username=arunsainarla&label=Profile%20Views&color=0&style=flat-square" alt="LinkedIn Profile Views" />
+</div>
 
 ## 📫 How to Reach Me
 - Email: arunsaiknr@gmail.com
