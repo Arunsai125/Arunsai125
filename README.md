@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Arun Sainarla (he/him)
+# 👋 Hey there, I'm Arun Sai Narla
 
 ## 🚀 About Me
 I'm a passionate software developer who loves to build innovative solutions. I enjoy working on challenging projects and learning new technologies.
@@ -21,7 +21,7 @@ I'm a passionate software developer who loves to build innovative solutions. I e
 </div>
 
 ## 🏆 Coding Profiles
-![](https://leetcard.jacoblin.cool/ArunSaiNarla?ext=heatmap)
+ <div align="center">![](https://leetcard.jacoblin.cool/ArunSaiNarla?ext=heatmap)</div>
 
 ## 📫 How to Reach Me
 - Email: arunsaiknr@gmail.com
