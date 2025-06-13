@@ -58,3 +58,5 @@ I'm a curious and driven software developer currently working as an SDE at Temen
 - Phone: +1 386-456-8079
 - LinkedIn: [Arun Sai Narla](https://www.linkedin.com/in/arunsainarla/)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Arunsai125.Arunsai125)
+
