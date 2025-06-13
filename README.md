@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Arun Sai Narla
+# 👋 Hi there, I'm Arun Sainarla 
 
 ## 🚀 About Me
 I'm a passionate software developer who loves to build innovative solutions. I enjoy working on challenging projects and learning new technologies.
@@ -15,7 +15,7 @@ I'm a passionate software developer who loves to build innovative solutions. I e
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 🏆 LeetCode Profile
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Arunsai125&theme=dark)](https://leetcode.com/Arunsai125)
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=ArunSaiNarla&theme=dark)](https://leetcode.com/u/ArunSaiNarla/)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunsai125&show_icons=true&theme=radical)
