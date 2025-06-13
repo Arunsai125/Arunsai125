@@ -5,7 +5,7 @@ I'm a curious and driven software developer currently working as an SDE at Temen
 
 ## ✨ Motto
 
-> “Build with purpose, debug with patience, and ship with pride.”  
+ “Build with purpose, debug with patience, and ship with pride.”  
 
 
 ## 💻 Tech Stack
