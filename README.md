@@ -49,9 +49,14 @@ I'm a curious and driven software developer currently working as an SDE at Temen
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunsai125&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 🏆 Coding Profiles
+## 🏆 LeetCode Profile
 
 ![](https://leetcard.jacoblin.cool/ArunSaiNarla?ext=heatmap)
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunsai125&theme=radical" alt="GitHub Streak" />
+</div>
+
 
 ## 📫 How to Reach Me
 - Email: arunsaiknr@gmail.com
