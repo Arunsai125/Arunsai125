@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Arun Sainarla (he/him)
+# 👋 Hi there, I'm Arun Sai Narla
 
 ## 🚀 About Me
 I'm a passionate software developer who loves to build innovative solutions. I enjoy working on challenging projects and learning new technologies.
