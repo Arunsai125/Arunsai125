@@ -21,7 +21,9 @@ I'm a passionate software developer who loves to build innovative solutions. I e
 </div>
 
 ## 🏆 Coding Profiles
- <div align="center">![](https://leetcard.jacoblin.cool/ArunSaiNarla?ext=heatmap)</div>
+<div align="center">
+![](https://leetcard.jacoblin.cool/ArunSaiNarla?ext=heatmap)
+</div>
 
 ## 📫 How to Reach Me
 - Email: arunsaiknr@gmail.com
