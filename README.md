@@ -35,6 +35,12 @@ I'm a curious and driven software developer currently working as an SDE at Temen
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-1D365D?style=flat-square&logo=servicenow&logoColor=white)
 
+## 🛠️ Featured Projects
+
+- 🔗 [NodeBB-UCF](https://github.com/ArunSaiNarla/NodeBB-UCF): Open-source forum enhancement tailored for the UCF community.
+- 🔬 [Low Resolution Image Enhancement Using ResNet GAN](https://www.publications.scrs.in/chapter/978-81-955020-5-9/108): Research-based project on improving image clarity using GANs.
+- 💓 [Noise Removal in ECG Signals](https://link.springer.com/chapter/10.1007/978-981-19-2126-1_19): Deep learning model to enhance ECG signal quality using convolutional autoencoders.
+
 
 ## 📊 Profile Stats
 <div align="center">
