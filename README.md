@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Arun Sai Narla
 
 ## 🚀 About Me
-I'm a passionate software developer who loves to build innovative solutions. I enjoy working on challenging projects and learning new technologies.
+I'm a curious and driven software developer currently working as an SDE at Temenos, where I build scalable and efficient solutions in the fintech space. I recently graduated with a Master’s in Computer Science from the University of Central Florida, where I also served as Vice President of the Graduate Student Association. With experience across full-stack development, cloud deployments, and API design, I enjoy solving real-world problems through code and continuously exploring new technologies to grow as an engineer.
 
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -21,14 +21,11 @@ I'm a passionate software developer who loves to build innovative solutions. I e
 </div>
 
 ## 🏆 Coding Profiles
-<div align="center">
+
 ![](https://leetcard.jacoblin.cool/ArunSaiNarla?ext=heatmap)
-</div>
 
 ## 📫 How to Reach Me
 - Email: arunsaiknr@gmail.com
 - Phone: +1 386-456-8079
 - LinkedIn: [Arun Sainarla](https://www.linkedin.com/in/arunsainarla/)
 
----
-⭐️ From [Arunsai125](https://github.com/Arunsai125)
