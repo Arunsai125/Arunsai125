@@ -27,5 +27,5 @@ I'm a curious and driven software developer currently working as an SDE at Temen
 ## 📫 How to Reach Me
 - Email: arunsaiknr@gmail.com
 - Phone: +1 386-456-8079
-- LinkedIn: [Arun Sainarla](https://www.linkedin.com/in/arunsainarla/)
+- LinkedIn: [Arun Sai Narla](https://www.linkedin.com/in/arunsainarla/)
 
