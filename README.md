@@ -3,6 +3,11 @@
 ## 🚀 About Me
 I'm a curious and driven software developer currently working as an SDE at Temenos, where I build scalable and efficient solutions in the fintech space. I recently graduated with a Master’s in Computer Science from the University of Central Florida, where I also served as Vice President of the Graduate Student Association. With experience across full-stack development, cloud deployments, and API design, I enjoy solving real-world problems through code and continuously exploring new technologies to grow as an engineer.
 
+## ✨ Motto
+
+> “Build with purpose, debug with patience, and ship with pride.”  
+
+
 ## 💻 Tech Stack
 
 ### 🧑‍💻 Languages  
