@@ -54,10 +54,9 @@ I'm a curious and driven software developer currently working as an SDE at Temen
 
 ## 📊 Profile Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arunsai125&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arunsai125&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunsai125&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arunsai125&theme=radical)
 
 ## 🏆 LeetCode Profile
 
