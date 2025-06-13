@@ -22,8 +22,7 @@ I'm a passionate software developer who loves to build innovative solutions. I e
 
 ## 🏆 Coding Profiles
 <div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=ArunSaiNarla&theme=dark" alt="LeetCode Stats" />
-  <img src="https://linkedin-profile-views-counter.vercel.app/api?username=arunsainarla&label=Profile%20Views&color=0&style=flat-square" alt="LinkedIn Profile Views" />
+  <img src="https://leetcard.jacoblin.cool/ArunSaiNarla?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
 </div>
 
 ## 📫 How to Reach Me
