@@ -53,10 +53,6 @@ I'm a curious and driven software developer currently working as an SDE at Temen
 
 ![](https://leetcard.jacoblin.cool/ArunSaiNarla?ext=heatmap)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunsai125&theme=radical" alt="GitHub Streak" />
-</div>
-
 
 ## 📫 How to Reach Me
 - Email: arunsaiknr@gmail.com
