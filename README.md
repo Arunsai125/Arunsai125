@@ -59,7 +59,7 @@ I'm a curious and driven software developer currently working as an SDE at Temen
 
 ## 🏆 LeetCode Profile
 
-<div align="center">![](https://leetcard.jacoblin.cool/ArunSaiNarla?ext=heatmap)</div>
+![](https://leetcard.jacoblin.cool/ArunSaiNarla?ext=heatmap)
 
 
 ## 📫 How to Reach Me
