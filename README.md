@@ -7,7 +7,7 @@ I'm a curious and driven software developer currently working as an SDE at Temen
 ## 🧭 Currently
 
 - 👨‍💻 Working as SDE at [Temenos](https://www.temenos.com/)
-- 🎓 Recently graduated from University of Central Florida (MS in CS)
+- 🎓 Graduated from University of Central Florida (MS in CS)
 - ⚙️ Exploring advanced system design and distributed architectures
 
 
